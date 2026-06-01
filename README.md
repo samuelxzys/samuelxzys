@@ -1,9 +1,6 @@
-## Hi there, I'm Samuel 👋🏽
+## Hi there, I'm Samuel!
 
-- My name is <strong>Samuel</strong>, a developer in constant evolution, passionate about games and programming.
-- XD
-- I think that's it.
-
+- I'm <strong>Samuel</strong>. This account was created to share my current and future projects.
 <table>
   <tr style="border: none;">
     <td style="border: none;">
